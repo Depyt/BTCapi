@@ -1,0 +1,24 @@
+.head{
+    position: fixed;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+#result{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    gap: 24px;
+    padding: 24px;
+    min-width: 100px;
+}
+.coin{
+
+    border: 1px solid black;
+    padding: 12px;
+
+}
+.coin h3 {
+    display: flex;
+    justify-content: center;
+}
